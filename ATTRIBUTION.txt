@@ -1,0 +1,2 @@
+Key contributors to the development of the Connected Vehicle Big Data Analytics Tool 1.0 and development of the documentation include:
+James O'Hara, Meenakshy Vasudevan and Alexa Lowman of Noblis.

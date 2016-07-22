@@ -1,0 +1,14 @@
+Connected Vehicle Big Data Analytics Tool Version 1.0, July 2016
+-----------------------------------------------------------------
+
+Initial release of Connected Vehicle Big Data Analytics tool Open Source python modules. Code is designed to predict traffic congestion in an 100 ft x 100 ft area every minute an hour ahead of time using Basic Safety Messages (BSM) or average speed data from INRIX.
+
+Known Issues
+------------
+Due to proprietary restrictions, the main part of the algorithm used to analyze the average speeds in each box and build graph networks out of the correlations is not included. 
+
+System Requirements
+-------------------------
+The Connected Vehicle Big Data Analysis Tool software can run on most standard Window or Linux based computers with at least two gigabits of RAM and at least 100 MB of drive space. Performance of the software will be based on the computing power and available RAM in the system. The software is designed to run with larger datasets which can require much larger space requirements.
+
+The Connected Vehicle Big Data Analysis Tool software application was developed using the open source programming language Python 2.7 (www.python.org). The application requires Python 2.7 or higher to run. 
